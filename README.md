@@ -45,16 +45,13 @@
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="MATLAB" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_matlab_icon_130398.png" />
 <img align="left" alt="Arduino" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_arduino_icon_130743.png" />
-
 <img align="left" alt="Ltex" width="26px" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/latex_icon_132257.png" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" />
 <img align="left" alt="Dk" width="35px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" />
-<img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
-<img align="left" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
-
-<img align="left" alt="Cpp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/c-original.svg" />
-<img align="left" alt="cp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg"/>
-
+<img align="center" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
+<img align="center" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
+<img align="center" alt="Cpp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/c-original.svg" />
+<img align="center" alt="cp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg"/>
 <img align="center" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg"/>
 <br>
 
