@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza_alpha1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
 
-- 🔭 I’m currently working on a [VR+EEG][VRR] and [Graph Neural Networks][VRRFCNN]!
-- 🌱 I’m currently learning Signal Processing!
-- 👯 I’m looking to collaborate with other researchers
+- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][VRRFCNN]!
+- 🌱 I’m currently learning Advanced Signal Processing!
+- 👥 I’m looking to collaborate with other researchers
 - 🥅 2020 Goals: Learn more! Publish More Codes!⚡
-
+- 👨🏻‍💻 I'm open to hear your comment on my codes! Open an issue and ask your questions!
 
 ### Connect with me:
 
@@ -58,6 +58,9 @@
 ### Thechnologies that I Love:
 1. Heroku
 2. Google Cloud Platform
+3. OpenBCI
+4. Emotive
+5. Raspberry pi
 
 
   <summary>:zap: Github Stats</summary>
