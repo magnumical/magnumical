@@ -18,7 +18,17 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br>
+
+
+### What I am doing:
+1. Building Brain-Computer Interfaces
+2. Machine Learning for Signal Processing
+3. Preprocessing Biological Signals
+4. Graph Neural Network for DSP
+
+<br>
+
 
 ### Languages and Tools:
 
@@ -48,17 +58,19 @@
 <img align="left" alt="unity" width="28px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg"/>
 
 
-
-
 <br/>
-<br/>
+<br/><br>
 
-<details>
+### Thechnologies that I Love:
+1. Heroku
+2. Google Cloud Platform
+
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=magnumical&show_icons=true&hide_border=true" />
 
-</details>
+
 
 
 [VRR]: https://github.com/magnumical/VR_Environment_Village
