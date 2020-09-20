@@ -26,7 +26,7 @@
 2. Machine Learning for Signal Processing
 3. Preprocessing Biological Signals
 4. Graph Neural Network for DSP
-
+<br>Along with these interests, I'd like to create affordable rehabilitation platforms! I believe that people who need such a services may not have much income (because they may not work), so as researchers, we should consider this problem!
 <br>
 
 
