@@ -26,7 +26,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="BS" width="80px" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/magnumical/" />
+
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -43,16 +43,11 @@
 <img align="left" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
 
 
-<img align="left" alt="Cpp" width="40px" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++" />
-<img align="left" alt="cp" width="40px" src="https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white&link=https://github.com/magnumical/"/>
+<img align="left" alt="Cpp" width="40px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/c-original.svg" />
+<img align="left" alt="cp" width="40px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg"/>
 
 
 
-                       
-[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud&link=https://github.com/magnumical/)](https://github.com/magnumical/)
-
-[![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&link=https://github.com/magnumical/)](https://github.com/magnumical/)
 
 
 
