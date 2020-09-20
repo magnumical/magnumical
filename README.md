@@ -46,6 +46,14 @@
 <br/>
 <br/>
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
+
 [VRR]: https://github.com/magnumical/VR_Environment_Village
 [GCNN]: https://github.com/magnumical/GCN_for_EEG
 
