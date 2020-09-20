@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza_alpha1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
 
-- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][VRRFCNN]!
+- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
 - 🌱 I’m currently learning Advanced Signal Processing!
 - 👥 I’m looking to collaborate with other researchers
 - 🥅 2020 Goals: Learn more! Publish More Codes!⚡
