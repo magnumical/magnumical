@@ -56,10 +56,7 @@
 <img align="left" alt="cp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg"/>
 
 <img align="center" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg"/>
-
-
-<br/>
-<br/><br>
+<br>
 
 ### Thechnologies that I Love:
 1. Heroku
