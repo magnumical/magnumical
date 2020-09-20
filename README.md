@@ -51,8 +51,8 @@
 <img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
 <img align="left" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
 <img align="left" alt="Cpp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/c-original.svg" />
-<img align="left" alt="cp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg"/>
-<img align="left" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg"/>
+<img align="left" alt="cp" width="28px" src="https://raw.githubusercontent.com/MarikIshtar007/MarikIshtar007/master/images/cpp.svg" />
+<img align="left" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg" />
 <br>
 
 ### Thechnologies that I Love:
