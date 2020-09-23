@@ -69,6 +69,9 @@
 
 
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/rezaamini)
+
+
 
 [VRR]: https://github.com/magnumical/VR_Environment_Village
 [GCNN]: https://github.com/magnumical/GCN_for_EEG
@@ -78,5 +81,6 @@
 [youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ?view_as=subscriber
 [instagram]: https://instagram.com/aboutrza
 [linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
+
 
 
