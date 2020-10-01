@@ -68,8 +68,6 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=magnumical&show_icons=true&hide_border=true" />
 
 
-<a href="https://www.patreon.com/rezaamini"><img src="https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.herokuapp.com/rezaamini&style=for-the-badge" alt="Patreon donate button" /> </a>
-
 
 
 
