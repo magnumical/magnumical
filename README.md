@@ -7,7 +7,7 @@
 - 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
 - 🌱 I’m currently learning Advanced Signal Processing!
 - 👥 I’m looking to collaborate with other researchers
-- 🥅 2020 Goals: Learn more! Publish More Codes!⚡
+- 🥅 2021 Goals: Learn more! Publish More Codes!⚡
 - 👨🏻‍💻 I'm open to hear your comment on my codes! Open an issue and ask your questions!
 
 ### Connect with me:
