@@ -1,7 +1,7 @@
 ### Hi there! I'm [Reza][website] 👋
 
 [![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
-[![Twitter Follow](https://img.shields.io/twitter/follow/reza_alpha1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
+[![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
 
 - 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
