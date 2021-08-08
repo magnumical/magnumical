@@ -70,7 +70,7 @@
 [GCNN]: https://github.com/magnumical/GCN_for_EEG
 
 [website]: https://imreza.ir
-[twitter]: https://twitter.com/reza_alpha1
+[twitter]: https://twitter.com/reza__amini
 [youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ?view_as=subscriber
 [instagram]: https://instagram.com/aboutrza
 [linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
