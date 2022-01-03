@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
-- 🌱 I’m currently learning Advanced Signal Processing!
+- 🌱 I’m currently learning Advanced Signal Processing methods!
 - 👥 I’m looking to collaborate with other researchers
-- 🥅 2021 Goals: Learn more! Publish More Codes!⚡
-- 👨🏻‍💻 I'm open to hear your comment on my codes! Open an issue and ask your questions!
+- 🥅 2022 Goals: Learn more! Publish More Codes!⚡
+- 👨🏻‍💻 I'm open to hear your comments on my codes! Open an issue and ask your questions!
 
 ### Connect with me:
 
@@ -22,10 +22,11 @@
 
 
 ### What I am doing:
-1. Building Brain-Computer Interfaces🛠
-2. Machine Learning for Signal Processing💻
-3. Preprocessing Biological Signals🎛
-4. Graph Neural Network for DSP📟
+1. Creating Multisensory Experiences
+2. Building Brain-Computer Interfaces🛠
+3. Machine Learning for Signal Processing💻
+4. Biological Signal Analysis🎛
+5. Graph Neural Network for DSP📟
 <br>
 🎯Along with these interests, I'd like to create affordable rehabilitation platforms! I believe that people who need such a services may not have much income (because they may not work), so as researchers, we should consider this problem!
 <br>
