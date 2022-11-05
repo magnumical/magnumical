@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
 
-- 🔭 I’m  working on [VR+EEG][VRR] and [Graph Neural Networks][GCNN]!
-- 🌱 I’m currently learning Advanced Signal Processing methods!
-- 👥 I’m looking to collaborate with other researchers
-- 🥅 2022 Goals: Learn more! Publish More Codes!⚡
-- 👨🏻‍💻 I'm open to hear your comments on my codes! Open an issue and ask your questions!
+- 🔭 I’m  working on [VR+ physiological computing][VRR]!
+- 🌱 I’m currently learning of adding flavour of AI into unity projects (through IBM Watson and some GCP serverless features)
+- 👥 I’m looking to collaborate with other researchers who are investigating role of VR interactions on real-life social interactions
+- 🥅 2022 Goals: Learn more! Publish More!⚡
+- 👨🏻‍💻 I'm open to hear your comments on my codes! 
 
 ### Connect with me:
 
@@ -24,11 +24,10 @@
 ### What I am doing:
 1. Creating Multisensory Experiences
 2. Building Brain-Computer Interfaces🛠
-3. Machine Learning for Signal Processing💻
+3. Machine Learning for Mental Health Prediction💻
 4. Biological Signal Analysis🎛
-5. Graph Neural Network for DSP📟
 <br>
-🎯Along with these interests, I'd like to create affordable rehabilitation platforms! I believe that people who need such a services may not have much income (because they may not work), so as researchers, we should consider this problem!
+🎯
 <br>
 
 
@@ -72,7 +71,7 @@
 
 [website]: https://imreza.ir
 [twitter]: https://twitter.com/reza__amini
-[youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ?view_as=subscriber
+[youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ
 [instagram]: https://instagram.com/aboutrza
 [linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
 
