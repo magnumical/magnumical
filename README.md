@@ -7,7 +7,7 @@
 - 🔭 I’m  working on [VR+ physiological computing][VRR]!
 - 🌱 I’m currently learning of adding flavour of AI into unity projects (through IBM Watson and some GCP serverless features)
 - 👥 I’m looking to collaborate with other researchers who are investigating role of VR interactions on real-life social interactions
-- 🥅 2022 Goals: Learn more! Publish More!⚡
+- 🥅 2023 Goals: Learn more! Publish More!⚡
 - 👨🏻‍💻 I'm open to hear your comments on my codes! 
 
 ### Connect with me:
