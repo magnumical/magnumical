@@ -76,4 +76,4 @@
 [linkedin]: https://www.linkedin.com/in/reza-amini-8a8685159/
 
 
-
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmagnumical%2Fmagnumical&label=vis&countColor=%23263759&style=flat)
