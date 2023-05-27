@@ -7,7 +7,8 @@ During My work at Lady Davis Institute:
 - 💻 I am a junior Machine Learning Engineer
 - 💾 I develope ETL systems (data pipelines) and automated machine learning pipelines to ease the analysis for our researchers
 - 📊 I use statistical analysis to describe our data
-
+- 🧬 finally, my project involves predicting children mental health through genes and environmental factors
+- 
 
 During My M.Sc.:
 - 🔭 I  worked on [VR+ physiological computing][VRR]!
