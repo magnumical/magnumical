@@ -3,12 +3,22 @@
 [![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
+During My work at Lady Davis Institute:
+- 💻 I am a junior Machine Learning Engineer
+- 💾 I develope ETL systems (data pipelines) and automated machine learning pipelines to ease the analysis for our researchers
+- 📊 I use statistical analysis to describe our data
 
-- 🔭 I’m  working on [VR+ physiological computing][VRR]!
-- 🌱 I’m currently learning of adding flavour of AI into unity projects (through IBM Watson and some GCP serverless features)
+
+During My M.Sc.:
+- 🔭 I  worked on [VR+ physiological computing][VRR]!
+- 🌱 I learnt of adding flavour of AI into unity game projects (through IBM Watson and some GCP serverless features)
+
+
+2023 Goals: 
+- 🥅 Learn more! Publish More!⚡
 - 👥 I’m looking to collaborate with other researchers who are investigating role of VR interactions on real-life social interactions
-- 🥅 2023 Goals: Learn more! Publish More!⚡
 - 👨🏻‍💻 I'm open to hear your comments on my codes! 
+
 
 ### Connect with me:
 
