@@ -3,21 +3,21 @@
 [![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
-During My work at Lady Davis Institute:
+### During My work at Lady Davis Institute:
 - 💻 I am a junior Machine Learning Engineer
 - 💾 I develope ETL systems (data pipelines) and automated machine learning pipelines to ease the analysis for our researchers
 - 📊 I use statistical analysis to describe our data
 - 🧬 finally, my project involves predicting children mental health through genes and environmental factors
 - 
 
-During My M.Sc.:
+### During My M.Sc.:
 - 🔭 I  worked on [VR+ physiological computing][VRR]!
 - 🌱 I learnt of adding flavour of AI into unity game projects (through IBM Watson and some GCP serverless features)
 
 
-2023 Goals: 
+### 2023 Goals: 
 - 🥅 Learn more! Publish More!⚡
-- 👥 I’m looking to collaborate with other researchers who are investigating role of VR interactions on real-life social interactions
+- 👥 I’m looking to collaborate with other researchers 
 - 👨🏻‍💻 I'm open to hear your comments on my codes! 
 
 
@@ -32,14 +32,6 @@ During My M.Sc.:
 <br>
 
 
-### What I am doing:
-1. Creating Multisensory Experiences
-2. Building Brain-Computer Interfaces🛠
-3. Machine Learning for Mental Health Prediction💻
-4. Biological Signal Analysis🎛
-<br>
-🎯
-<br>
 
 
 ### Languages and Tools:
