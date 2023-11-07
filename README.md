@@ -1,24 +1,20 @@
 ### Hi there! I'm [Reza][website] 👋
 
-[![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://imreza.ir)
+[![Website](https://img.shields.io/website?label=imreza.ir&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://magnumical.ca)
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=magnumical)
 
-### During My work at Lady Davis Institute:
-- 💻 I am a junior Machine Learning Engineer
+### Intro
+Currently, I'm HCI research engineer at "2012 Laboratories" affiliated with **Huawei HMI Lab**, located in Toronto, Ontario. My work revolves around applied ML, utilizing novel ways to ease user interaction with Huawei phones and smart home, and smart cars. My user-centric solutions not only enhances user experience, but also empowers them to do more!
+
+### My previous experiences were at:
+1. Lady Davis Institute:
+- 💻 I was a junior Machine Learning Engineer
 - 💾 I develope ETL systems (data pipelines) and automated machine learning pipelines to ease the analysis for our researchers
 - 📊 I use statistical analysis to describe our data
 - 🧬 finally, my project involves predicting children mental health through genes and environmental factors
-- 
 
-### During My M.Sc.:
-- 🔭 I  worked on [VR+ physiological computing][VRR]!
-- 🌱 I learnt of adding flavour of AI into unity game projects (through IBM Watson and some GCP serverless features)
-
-
-### 2023 Goals: 
-- 🥅 Learn more! Publish More!⚡
-- 👥 I’m looking to collaborate with other researchers 
-- 👨🏻‍💻 I'm open to hear your comments on my codes! 
+2. UQO + Bruyere Hospital
+- 💻 I helped development of an AI-powered companion for patients with Dementia
 
 
 ### Connect with me:
@@ -28,8 +24,11 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br>
+
+### Hot Projects:
+1. [AI-powered girlfriend/boyfriend](https://magnumical.ca/chit-chat-charm/): Dive deep into the world of AI-assisted conversations like you’ve never seen before. At Chit Chat Charm, we offer not just text-based interactions but a full-fledged experience with visual and auditory immersion. Get ready to be charmed!
+
 
 
 
@@ -53,26 +52,11 @@
 <img align="left" alt="Flask" width="26px" src="https://cdn.icon-icons.com/icons2/512/PNG/512/prog-flask_icon-icons.com_50797.png" />
 <img align="left" alt="MS word" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_word_icon_130070.png" />
 <img align="left" alt="MS PP" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_powerpoint_icon_130245.png" />
-
-
 <img align="center" alt="unity" width="50px" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/unity.svg" />
 <br>
 
-### Thechnologies that I Love:
-1. Heroku
-2. Google Cloud Platform
-3. OpenBCI
-4. Emotive
-5. Raspberry pi
 
-
-
-
-
-[VRR]: https://github.com/magnumical/VR_Environment_Village
-[GCNN]: https://github.com/magnumical/GCN_for_EEG
-
-[website]: https://imreza.ir
+[website]: https://magnumical.ca
 [twitter]: https://twitter.com/reza__amini
 [youtube]: https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ
 [instagram]: https://instagram.com/aboutrza
