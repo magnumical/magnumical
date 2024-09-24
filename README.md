@@ -9,6 +9,8 @@ I'm an **AI/ML Engineer** and **Full-Stack Developer** with a passion for human-
 I also have experience working with smart devices and voice interfaces as part of Huawei's Human-Computer Interaction (HCI) Lab, as well as AI-powered virtual companions for patients. My projects focus on leveraging advanced AI techniques to improve user experience, precision medicine, and more.
 
 ## 🔥 Hot Projects
+- **[Visionary (by MAgnumical)](https://platform.magnumical.ca/)**: A groundbreaking AI platform offering cutting-edge tools for creativity, productivity, and innovation. Whether you’re generating images, videos, conversations, or music, Visionary empowers you with the full potential of AI. 
+
 - **[AI-Powered Companion](https://magnumical.ca/chit-chat-charm/)**: Dive into a conversational AI experience like never before. Through **Chit Chat Charm**, I combine voice, visuals, and deep learning to bring interactive, context-aware conversations to life.
   
 ## 🛠️ Skills & Tools
