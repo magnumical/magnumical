@@ -4,13 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/reza__amini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Freza__amini&screen_name=reza__amini)
 
 ## 👨‍💻 About Me
-I'm an **AI/ML Engineer** and **Full-Stack Developer** with a passion for human-computer interaction and the development of impactful, user-friendly AI-driven solutions. Currently, I am working as a **Lead Machine Learning Engineer** at **CIUSSS West-Central Montreal**, where I collaborate with clinicians to integrate AI tools into clinical workflows. My work is in the field of applied ML/AI with the ultimate goal of creating tools for healthcare applications.
+I'm an **AI/ML Engineer** and **Full-Stack Developer** with a passion for human-computer interaction and the development of impactful, user-friendly AI-driven solutions. Currently, I am working as a **AI Engineer** at **Amplifier Health**, where we are leveraging voice to diagnose different conditions. Like heart rate or blood pressure, your voice holds crucial health data. Amplifier unlocks this data, turning voice into a vital sign.
 
 I also have experience working with smart devices and voice interfaces as part of Huawei's Human-Computer Interaction (HCI) Lab, as well as AI-powered virtual companions for patients. My projects focus on leveraging advanced AI techniques to improve user experience, precision medicine, and more.
 
 ## 🔥 Hot Projects
-- **[Visionary (by MAgnumical)](https://platform.magnumical.ca/)**: A groundbreaking AI platform offering cutting-edge tools for creativity, productivity, and innovation. Whether you’re generating images, videos, conversations, or music, Visionary empowers you with the full potential of AI. 
-
 - **[AI-Powered Companion](https://magnumical.ca/chit-chat-charm/)**: Dive into a conversational AI experience like never before. Through **Chit Chat Charm**, I combine voice, visuals, and deep learning to bring interactive, context-aware conversations to life.
   
 ## 🛠️ Skills & Tools
@@ -36,7 +34,7 @@ I also have experience working with smart devices and voice interfaces as part o
 
 
 ## 🚀 My Previous Experiences:
-1. **CIUSSS West-Central Montreal** (2021 - Present)  
+1. **CIUSSS West-Central Montreal** (2021 - 2025)  
    *Lead ML Engineer*  
    - Developed AI solutions for precision medicine.
    - Built automated machine learning pipelines and improved deployment efficiency by 30%.
@@ -53,7 +51,7 @@ I also have experience working with smart devices and voice interfaces as part o
 
 ## 🌐 Connect with Me:
 [![Website](https://img.shields.io/badge/-Website-000?&logo=globe&logoColor=white)](https://magnumical.ca)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/reza-amini-8a8685159/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/rezaag/)  
 [![YouTube](https://img.shields.io/badge/-YouTube-000?&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCZzM5Fq1Cpn49NuCpy2LdiQ)  
 [![Twitter](https://img.shields.io/badge/-X-000?&logo=twitter&logoColor=1DA1F2)](https://X.com/reza__amini)
 
